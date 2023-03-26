@@ -1,0 +1,99 @@
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+D:\download\a\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+D:\download\a\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+D:\download\a\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+D:\download\a\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+D:\download\a\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\download\a\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\download\a\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\download\a\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+D:\download\a\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+C:\a\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+C:\a\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+C:\a\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+C:\a\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+C:\a\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\a\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\a\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\a\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+C:\a\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+C:\QLNS\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+C:\QLNS\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+C:\QLNS\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+C:\QLNS\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+C:\QLNS\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\QLNS\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\QLNS\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\QLNS\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+C:\QLNS\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb

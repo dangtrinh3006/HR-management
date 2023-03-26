@@ -1,0 +1,301 @@
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.dll
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.pdb
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.dll
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.pdb
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.dll
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.pdb
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.NhanVien.resources
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChucVu.resources
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.PhongBan.resources
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.dll
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.pdb
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChucVu.resources
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.NhanVien.resources
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.PhongBan.resources
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.dll
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.pdb
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChamCong.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChucVu.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.NhanVien.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.PhongBan.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.dll
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.pdb
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BangLuong.resources
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChamCong.resources
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChucVu.resources
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.NhanVien.resources
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.PhongBan.resources
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BangLuong.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChamCong.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChucVu.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.NhanVien.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.PhongBan.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TimKiemNhanVien.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.DoiMatKhau.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BangLuong.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.DoiMatKhau.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TimKiemNhanVien.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BaoHiem.resources
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThuongPhat.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BaoHiem.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThuongPhat.resources
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThongBao.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.dll
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.pdb
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BangLuong.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BaoHiem.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChamCong.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChucVu.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.DoiMatKhau.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.NhanVien.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.PhongBan.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThongBao.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThuongPhat.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TimKiemNhanVien.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\Study\Year-2\HK2\CNPM\Project\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.dll
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.pdb
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BangLuong.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BaoHiem.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChamCong.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChucVu.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.DoiMatKhau.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.NhanVien.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.PhongBan.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThongBao.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThuongPhat.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TimKiemNhanVien.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\Study\Year-2\HK2\CNPM\Project\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.dll
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.pdb
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BangLuong.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BaoHiem.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChamCong.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChucVu.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.DoiMatKhau.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.NhanVien.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.PhongBan.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThongBao.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThuongPhat.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TimKiemNhanVien.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\download\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.dll
+C:\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+C:\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.pdb
+C:\a\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BangLuong.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BaoHiem.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChamCong.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChucVu.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.DoiMatKhau.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.NhanVien.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.PhongBan.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThongBao.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThuongPhat.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TimKiemNhanVien.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\a\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.dll
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAO.pdb
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BangLuong.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BaoHiem.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChamCong.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChucVu.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.DoiMatKhau.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.NhanVien.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.PhongBan.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThongBao.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThuongPhat.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TimKiemNhanVien.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\bin\Debug\DAO.dll
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\bin\Debug\DTO.dll
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\bin\Debug\DAO.pdb
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\bin\Debug\DTO.pdb
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BangLuong.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.BaoHiem.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChamCong.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ChucVu.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.DoiMatKhau.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.NhanVien.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.PhongBan.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TaiKhoan.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThongBao.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.ThuongPhat.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ListForm.TimKiemNhanVien.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\dangt\OneDrive\Máy tính\Nhom13\Nhom13_QuanLyNhanSU_SourceCode\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
